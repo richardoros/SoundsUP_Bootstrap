@@ -1,5 +1,5 @@
 header{
-	background-image: linear-gradient(#04519b, #044687 60%, #033769);
+	background-image: linear-gradient(#363237, #1E1F26 70%, #033769);
 	color:#fff;
 	min-height: 100px;
 	padding-top: 25px;
@@ -14,7 +14,7 @@ header .logo{
 }
 
 .panel-heading{
-    background-image: linear-gradient(#04519b, #044687 60%, #033769);
+    background-image: linear-gradient(#363237, #1E1F26 50%, #033769);
     color: #fff !important;
 }
 
